@@ -24,9 +24,9 @@
   "homepage": "https://github.com/wangzuo/cxx-download",
   "dependencies": {
     "promise": "^7.0.1",
-    "superagent": "^1.2.0"
+    "superagent": "^2.3.0"
   },
   "devDependencies": {
-    "browserify": "^9.0.8"
+    "browserify": "^13.1.0"
   }
 }
