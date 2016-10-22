@@ -27,6 +27,6 @@
     "superagent": "^1.2.0"
   },
   "devDependencies": {
-    "browserify": "^9.0.8"
+    "browserify": "^13.1.1"
   }
 }
